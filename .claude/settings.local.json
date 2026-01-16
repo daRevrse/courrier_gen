@@ -4,7 +4,8 @@
       "Bash(dir:*)",
       "Bash(findstr:*)",
       "Bash(python -c:*)",
-      "Bash(python test_installation.py:*)"
+      "Bash(python test_installation.py:*)",
+      "Bash(python main.py:*)"
     ]
   }
 }
